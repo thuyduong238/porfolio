@@ -1,0 +1,90 @@
+body{
+			font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+				 padding: 0;
+				 margin: 0;
+				 text-align: center;
+				 color: black;
+		 }
+		 #h1 {
+			 font-family: Arial, sans-serif;
+			font-size: 15px;
+			line-height: 1.6;
+			color: #333;
+			max-width: 800px;
+			margin: 0 auto;
+			padding: 20px;
+			 
+		 }
+		 h2{
+			 font-size:23px;
+		 }
+		  p {
+            margin-bottom: 1.2em;
+        }
+
+		 .one ul {
+			list-style-type: none;
+			margin: 0;
+			padding: 0;
+			overflow: hidden;
+			background-color:#00688B;
+			
+}
+
+		.one li {
+			float: left;
+			}
+
+	.one li a {
+		display: block;
+		color: white;
+		text-align: center;
+		padding: 11px;
+		text-decoration: none;
+		
+}
+	.one li a:link {
+		color:#FFF;
+	}
+
+	.one li a:hover {
+    	color:skyblue;
+	}
+	 .two ul {
+			list-style-type: none;
+			margin: 0;
+			padding: 0;
+			overflow: hidden;
+			background-color:#fff;
+			
+}
+
+		.two li {
+			float: left;
+			}
+
+		.two li a {
+		display: block;
+		color:#003;
+		text-align: center;
+		font-size:20px;
+		padding: 13px;
+		margin-top: 10px;
+		text-decoration: none;
+		}
+	
+
+	
+	.header{
+			 background-color: #00688B;
+			 color: white;
+			 padding: 8px;
+		 }
+	 .footer{
+    background-color: rgb(55,55,55);
+    color: rgb(255,255,255);
+    margin: 10px;
+    padding: 10px;
+	text-decoration:none;
+	color:white;
+		 }
